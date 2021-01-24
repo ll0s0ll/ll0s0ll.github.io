@@ -1,0 +1,17 @@
+MIDlet-Name: GreenFeedReader
+MIDlet-Version: 0.3
+MIDlet-Vendor: Shun ITO
+MIDlet-Jar-URL: GreenFeedReader.jar
+MIDlet-Jar-Size: 158938
+MIDlet-Description: Feedly client.
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Green Feed Reader,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: GreenFeedReader.cod
+RIM-COD-Size: 65532
+RIM-COD-Creation-Time: 1435836211
+RIM-COD-Module-Name: GreenFeedReader
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_json_org,net_rim_networkapi,net_rim_ui_api,net_rim_bb_browser_field2_api,net_rim_bbapi_sendmenu,net_rim_bbapi_browser,net_rim_xml_org
+RIM-COD-SHA1: 51 7a a1 aa cf fa 01 c4 30 f9 af ac f5 52 6e eb 13 09 04 f0
